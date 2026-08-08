@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0169-majority-element) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0344-reverse-string) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0169-majority-element) |
 ## Counting
