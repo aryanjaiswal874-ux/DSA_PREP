@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0344-reverse-string) |
 ## Quicksort
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryanjaiswal874-ux/DSA_PREP/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
